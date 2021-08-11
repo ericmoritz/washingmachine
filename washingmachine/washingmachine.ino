@@ -5,6 +5,7 @@
  * to MQTT topics to be processed elsewhere
  */
 
+// Define WIFI_SSID and WIFI_PASS in config.h
 #include "config.h"
 
 #include <ESP8266WiFi.h>
